@@ -1,5 +1,9 @@
 # Stress Detection System
 
+## Application Preview
+
+![Demo](demo.png)
+
 ## Overview
 
 Stress Detection System is a Python-based application that analyzes user-entered text and determines whether the text indicates stress using sentiment analysis techniques.
